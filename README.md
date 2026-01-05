@@ -125,7 +125,7 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Roshan-504/WellNest.git
+    git clone https://github.com/Sarthak-37/WellNest.git
     cd WellNest/backend
     ```
 2.  **Install dependencies:**
